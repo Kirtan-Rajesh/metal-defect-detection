@@ -1,6 +1,3 @@
-Here's a detailed `README.md` file for your GitHub repository:
-
-```markdown
 # Metal Surface Defect Detection System
 
 ![Project Banner](docs/banner.png)
